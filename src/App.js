@@ -3,7 +3,7 @@ import React from "react";
 function App() {
   return (
     <div>
-      <h1>Songulashvili</h1>
+      <h1>songulashvili.com</h1>
       <ul>
         <li>React app</li>
         <li>Hosted by github pages</li>
